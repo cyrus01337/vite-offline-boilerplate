@@ -12,7 +12,7 @@ At the moment, only React is supported. PRs are welcome, though you are just as 
 
 ## Licensing
 
-See [https://github.com/cyrus01337/vite-offline-localhost-boilerplate/blob/main/LICENSE]
+See [LICENSE](https://github.com/cyrus01337/vite-offline-localhost-boilerplate/blob/main/LICENSE)
 
 ## Contributing
 
