@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Inter";
+    font-weight: normal;
+    src: url("/Inter.ttf") format("opentype");
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
