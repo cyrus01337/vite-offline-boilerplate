@@ -6,9 +6,6 @@
     "license": "MIT",
     "type": "module",
     "private": true,
-    "engines": {
-        "yarn": "3.x"
-    },
     "scripts": {
         "build": "vite build",
         "dev": "vite",
