@@ -9,14 +9,14 @@ const ROOT_ELEMENT = document.getElementById("root");
 const ROOT = ReactDOM.createRoot(ROOT_ELEMENT);
 
 function App() {
-    return (
-        <HashRouter>
-            <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/alternative" element={<Alternative />} />
-            </Routes>
-        </HashRouter>
-    );
+  return (
+    <HashRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/alternative" element={<Alternative />} />
+      </Routes>
+    </HashRouter>
+  );
 }
 
 ROOT.render(<App />);
